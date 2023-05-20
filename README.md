@@ -1,8 +1,7 @@
 
 
 
-
-This tutorial outlines a VPN (Virtual Private Network). It establishes a secured network over an unsecured Internet.
+# In this tutorial I walk through and document the steps used to setup a secured VPN tunnel connection in an Azure virtual environment.
 
 ## What is a VPN and how is it used?
 
@@ -33,22 +32,22 @@ A **VPN** is used to establish a secure and encrypted tunnel or network connecti
  
 ![alt text](https://i.imgur.com/O43f56y.png)
 
-
-### To start the process, I had to Find the public IP address and location on my laptop by using www.whatsmyipaddress.com, as shown above.
+### The above image focuses on the area between My Actual PC and Public Websites
+To start the exercise, I had to Find the public IP address and location on my laptop by using www.whatsmyipaddress.com, as shown above.
 
 
 
 ![alt text](https://i.imgur.com/5uPl7bZ.png)
 
-
+### The above image focuses on the pink area between My Actual PC and the Azure VM.
 After creating the Azure virtual machine, find the **IP address** and the **location** by going to www.whatsmyipaddress.com. After finding this information, create a remote desktop session from this virtual machine. as shown above.
 
 
 ![alt text](https://i.imgur.com/WigkWnh.png)
 
 
-
-In this section, the **remote desktop** has been created and it is from this VM that we will start working with the VPN environment.  We went to www.protonvpn.com to create an account.  Once the account has been created, we must download the ProtonVPN client and install in on the remote desktop session  that you created.
+### The above image focuses on the green area between the Azure VM and the ProtonVPN server. The steps that follow take place in this section of the image.
+In this section, the **remote desktop** has been created and it is from this VM that we will start working with the VPN environment.  We went to www.protonvpn.com to create an account.  Once the account has been created, we need to download the ProtonVPN client and install it on the remote desktop session  that was created.
 
 ### Create an Account with www.ProptonVPN.com
 
@@ -60,15 +59,15 @@ In this section, the **remote desktop** has been created and it is from this VM 
 
 ![alt text](https://i.imgur.com/Sq6ufX8.png)
 
-### Download the ProtonVPN application
+### Download and install the ProtonVPN application
 
-![alt text](https://i.imgur.com/T2qTrYz.png)
-
-
-![alt text](https://i.imgur.com/78QmlFY.png)
+![alt text](https://i.imgur.com/B8AxcqM.png)
 
 
-![alt text](https://i.imgur.com/mYOX91a.png)
+![alt text](https://i.imgur.com/q3cI5Wx.png)
+
+
+![alt text](https://i.imgur.com/FuK6xSn.png)
 
 
 ### Launch ProtonVPN and login to your ProtonVPN account
@@ -81,17 +80,23 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ![alt text](https://i.imgur.com/R7fbVJu.png)
 
 
-### Connecting to the Netherlands server 
+### Connecting to the chosen Netherlands server 
 
 
 ![alt text](https://i.imgur.com/wChc9Pv.png)
 
 
-### Connected to the Netherlands server
+### Connected to the chosen Netherlands server
 
 
 ![alt text](https://i.imgur.com/HNu7TYV.png)
 
-## Ok!...so now we're connected to a VPN tunnel.  What does that mean and what are some of the benefits of this connection?
+### Ok!...now we're connected to a VPN tunnel.  What does that mean and what are some of the benefits of this connection? 
+Right now, our current IP address and location is encrypted and secured. 
+
+### Now, let's test our VPN connection by opening a refreshed browser session, as shown below.
+We can now see the localization features in our browser. Letting us know that Google has now taken on features of the Netherlands, as shown below.
+
+![alt text](https://i.imgur.com/iPNBpr0.png)
 
 
