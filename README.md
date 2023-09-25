@@ -1,11 +1,9 @@
 
 
 
-# In this tutorial I walk through and document the steps used to setup a secured VPN tunnel connection in an Azure virtual environment.
-
-## What is a VPN and how is it used?
-
-A **VPN** is used to establish a secure and encrypted tunnel or network connection over an unsecure network such as the Internet. It also protects or keeps private, your network identity during your established VPN connection.
+![alt text]( https://i.imgur.com/9mB6LIu.png)
+# **Exploring VPN Technology in a Virtual Environment**
+### This tutorial walks through the basics of VPN Technology and documents the steps used to setup a secured VPN tunnel connection in an Azure virtual environment.
 
 
 ## Environments and Technologies Used
