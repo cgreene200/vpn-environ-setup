@@ -78,8 +78,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ### Connecting to the chosen Netherlands server 
 
 
-![alt text](https://i.imgur.com/wChc9Pv.png)
-
+![alt text](https://i.imgur.com/wzqwNzM.png)
 
 ### Connected to the chosen Netherlands server
 
