@@ -51,7 +51,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 
 
 ![alt text](https://i.imgur.com/JFP8qZs.png)
-
+ ![alt text](https://i.imgur.com/Uiy65cB.png)
 
 ### Sign into your ProtonVPN account as shown below.
 
