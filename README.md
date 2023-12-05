@@ -47,7 +47,7 @@ After creating the Azure virtual machine, find the **IP address** and the **loca
 ### The above image focuses on the green area between the Azure VM and the ProtonVPN server. The steps that follow take place in this section of the image.
 In this section, the **remote desktop** has been created and it is from this VM that we will start working with the VPN environment.  We went to www.protonvpn.com to create an account.  Once the account has been created, we need to download the ProtonVPN client and install it on the remote desktop session  that was created.
 
-### Create an Account with www.ProptonVPN.com
+### Create an Account with www.ProptonVPN.com, as shown below.
 
 
  ![alt text](https://i.imgur.com/Uiy65cB.png)
