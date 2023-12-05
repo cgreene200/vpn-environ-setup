@@ -73,7 +73,6 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ### Choose a VPN Server and Country location
 
 
-![alt text](https://i.imgur.com/R7fbVJu.png)
 ![alt text](https://i.imgur.com/Fk9lc8E.png)
 
 ### Connecting to the chosen Netherlands server 
