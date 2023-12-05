@@ -11,7 +11,7 @@
 *  My Personal Laptop
 *  Microsoft Azure (Virtual Machines)
 *  Remote Desktop
-*  ProtonVPN Software
+*  ProtonVPN Client Software
 
 ## Operating Systems Used
 
@@ -56,7 +56,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 
 ![alt text](https://i.imgur.com/Sq6ufX8.png)
 
-### Download and install the ProtonVPN application
+### Download and install the ProtonVPN application, as shown below.
 
 ![alt text](https://i.imgur.com/B8AxcqM.png)
 
@@ -70,7 +70,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ### Launch ProtonVPN and login to your ProtonVPN account
 
 ![alt text](https://i.imgur.com/ihcmSiq.png)
-### Choose a VPN Server and Country location
+### Choose a VPN Server and Country location, as shown below.
 
 
 ![alt text](https://i.imgur.com/Fk9lc8E.png)
@@ -80,7 +80,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 
 ![alt text](https://i.imgur.com/wzqwNzM.png)
 
-### Connected to the chosen Netherlands server
+### Connected to the chosen Netherlands server, as shown below.
 
 
 ![alt text](https://i.imgur.com/yKhKLWu.png)
