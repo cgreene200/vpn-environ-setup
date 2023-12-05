@@ -83,8 +83,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ### Connected to the chosen Netherlands server
 
 
-![alt text](https://i.imgur.com/HNu7TYV.png)
-
+![alt text](https://i.imgur.com/yKhKLWu.png)
 ### Ok!...now we're connected to a VPN tunnel.  What does that mean and what are some of the benefits of this connection? 
 Right now, our current IP address and location is encrypted and secured. 
 
