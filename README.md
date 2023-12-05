@@ -71,7 +71,7 @@ In this section, the **remote desktop** has been created and it is from this VM 
 ### Launch ProtonVPN and login to your ProtonVPN account
 
 ![alt text](https://i.imgur.com/mWVdzjQ.png)
-
+![alt text](https://i.imgur.com/ihcmSiq.png)
 ### Choose a VPN Server and Country location
 
 
